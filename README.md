@@ -1,3 +1,3 @@
 # StajOtomasyonu
  Automation Example
-<img src="https://github.com/Falconx13xx/StajOtomasyonu/issues/1#issue-1574792557" alt="alt text" width="320" height="180">
+![alt text](https://user-images.githubusercontent.com/104158987/217327042-4fb33ff3-d926-44de-9be1-d41e3e02935b.PNG)
